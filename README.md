@@ -51,3 +51,4 @@ Current Version: **RiX3 Optimizer v8**
 ---
 
 💻 Developed for performance enthusiasts and gamers.
+
